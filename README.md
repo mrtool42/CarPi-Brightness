@@ -1,4 +1,4 @@
-# raspi-brightness
+# CarPi-Brightness
 
 A little Python script for my Raspberry Pi to control the brightness of a LCD screen with PWM over GPIO when its powered on.
 To determine if it's day or night in my location, the python package "Astral" is used.
