@@ -6,5 +6,3 @@ When booting up, the screen is dimmed if the sun is below the horizon, and brigh
 
 Feel free to edit and use for your own needs ;)
 
-
-![IMG_20200526_052152](https://user-images.githubusercontent.com/56500999/110845591-1b103e80-82ab-11eb-87f3-ad3ffd92ded6.jpg)
